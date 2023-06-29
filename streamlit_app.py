@@ -63,7 +63,7 @@ def predict():
 
 
 def run_app():
-    app_title = "Welcome to My first Streamlit App"
+    app_title = "Resemblometer App"
     decorated_title = generate_decorated_title(app_title)
     st.markdown(decorated_title)
     
